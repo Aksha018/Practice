@@ -20,6 +20,7 @@ public class ReverseNumber {
 	      }
 
 	      System.out.println("Reverse of given number is: "+reverse);
+	      sc.close();
 	   }
 
 }

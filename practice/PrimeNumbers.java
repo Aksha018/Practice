@@ -4,8 +4,7 @@ public class PrimeNumbers{
 
 	static Boolean check(int number){    
         int i;
-        int m=0;
-        int flag=0;        
+        int m=0;      
         m=number/2;   
           
         if(number==0||number==1) {    
